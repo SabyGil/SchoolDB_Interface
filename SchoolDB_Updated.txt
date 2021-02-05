@@ -1,0 +1,41 @@
+**************************************************************
+SCHOOL DATABASE INFO:
+
+************************************************
+COURSES:
+Course: MAT-771 | Number of Credits: 04 | Graduate
+Course: CMP-777 | Number of Credits: 04 | Graduate
+Course: CMP-711 | Number of Credits: 04 | Graduate
+Course: MAT-723 | Number of Credits: 04 | Graduate
+Course: CMP-168 | Number of Credits: 04 | Undergraduate
+Course: CMP-338 | Number of Credits: 04 | Undergraduate
+************************************************
+************************************************
+PERSONS:
+************************************************
+************************************************
+EMPLOYEES:
+************************************************
+************************************************
+GENERAL STAFF:
+Person: Name:                                | Birth Year:    0 Employee: Department:                      | Employee Number:   5 GeneralStaff: Duty:           
+Person: Name:                                | Birth Year:    0 Employee: Department:                      | Employee Number:   6 GeneralStaff: Duty: advise students
+Person: Name:                                | Birth Year:    0 Employee: Department:           Sanitation | Employee Number:   7 GeneralStaff: Duty:      clean
+Person: Name:                   Flash Gordon | Birth Year: 1934 Employee: Department:             Security | Employee Number:   8 GeneralStaff: Duty:     safety
+************************************************
+************************************************
+FACULTY:
+Person: Name:                                | Birth Year:    0 Employee: Department:                      | Employee Number:   1 Faculty: Not Tenured | Number of Courses Taught:   0 | Courses Taught: 
+Person: Name:                                | Birth Year:    0 Employee: Department:                      | Employee Number:   2 Faculty:  Is Tenured | Number of Courses Taught:   0 | Courses Taught: 
+Person: Name:                                | Birth Year:    0 Employee: Department:                  MAT | Employee Number:   3 Faculty: Not Tenured | Number of Courses Taught:   0 | Courses Taught: 
+Person: Name:                       Superman | Birth Year: 1938 Employee: Department:                  PHY | Employee Number:   4 Faculty:  Is Tenured | Number of Courses Taught:   0 | Courses Taught: 
+************************************************
+************************************************
+STUDENTS:
+Person: Name:                                | Birth Year:    0 Student: studentID: 0001 | Major           undeclared |  Undergraduate | Number of Courses Taken:   0 | Courses Taken: 
+Person: Name:                                | Birth Year:    0 Student: studentID: 0002 | Major           undeclared |  Undergraduate | Number of Courses Taken:   0 | Courses Taken: 
+Person: Name:                                | Birth Year:    0 Student: studentID: 0003 | Major                 Math |  Undergraduate | Number of Courses Taken:   0 | Courses Taken: 
+Person: Name:                    Wonderwoman | Birth Year: 1941 Student: studentID: 0004 | Major                  JST |       Graduate | Number of Courses Taken:   0 | Courses Taken: 
+************************************************
+**************************************************************
+
